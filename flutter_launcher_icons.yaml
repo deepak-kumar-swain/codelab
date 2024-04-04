@@ -1,0 +1,6 @@
+flutter_icons:
+  image_path: "assets/images/logo_pic.png"
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  background_color: "#ffffff"
